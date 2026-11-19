@@ -1,0 +1,11 @@
+item_id,question,route_label
+Q001,"What four access or information-exchange levels are in the assigned paper’s taxonomy, and what benefits does it associate with collaboration?",evidence_extractor
+Q002,"What limitations of relying on one general-purpose LLM motivate the assigned paper’s collaboration proposal, and why does it say simply scaling one model is insufficient?",evidence_extractor
+Q003,"How does Du et al.’s debate procedure work, and what evidence in the paper’s opening pages illustrates the tasks and comparison used?",method_analyst
+Q004,"How does the assigned paper’s taxonomy differ from Du et al.’s concrete debate approach, and what shared idea connects them?",cross_paper_synthesizer
+Q005,"In Debate or Vote, which component explains most gains attributed to multi-agent debate, and what theoretical explanation do the authors provide?",method_analyst
+Q006,"What problem do targeted interventions address in Debate or Vote, and why might majority voting be a practical alternative?",method_analyst
+Q007,"What decision protocols and task categories does Voting or Consensus study, and what task-specific advantages does its abstract report?",method_analyst
+Q008,"What design choices affect outcomes in Voting or Consensus, and what are AAD and CI intended to add?",method_analyst
+Q009,"How does the scalable-oversight study distinguish debate, consultancy, and direct QA, and what task types does it evaluate?",evidence_extractor
+Q010,"What does the scalable-oversight study report about debate versus consultancy and debate versus direct QA, and how do the findings vary with information asymmetry?",cross_paper_synthesizer

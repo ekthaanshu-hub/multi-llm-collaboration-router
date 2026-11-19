@@ -1,0 +1,10 @@
+Q001 PRELIMINARY SCORING RUBRIC (TEAM REVIEW REQUIRED)
+
+Score each final answer against the seven atomic points specified for Q001 in dataset.csv: the four taxonomy levels individually, the taxonomy basis (access/information exchange), and at least two benefits stated in the assigned paper. Count a point only when the answer is correct and supported by the cited source evidence.
+
+7/7: all seven points correct and evidence-supported.
+6/7: six points correct and evidence-supported; one missing or incorrect.
+5/7: five points correct and evidence-supported; two missing or incorrect.
+4/7: four points correct and evidence-supported; three missing or incorrect.
+
+Record unsupported claims separately in evaluation_log.csv; an unsupported claim does not earn a point. The existing scores are AI preliminary assessments and must be checked by the team. Use independent human reviewers for final evaluation and resolve disagreements according to the team's agreed procedure.

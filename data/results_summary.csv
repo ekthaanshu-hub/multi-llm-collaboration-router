@@ -1,0 +1,3 @@
+condition,n_questions,mean_score_out_of_7,mean_score_percent,mean_total_tokens_per_question,mean_latency_seconds_per_question,calls_per_question,cost_recorded
+multi_llm,10,6.0,85.7,27377.6,13.806,6,no
+single_llm_baseline,10,6.0,85.7,26872.3,12.704,6,no
